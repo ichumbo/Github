@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+}
+
+table,
+th,
+td {
+    padding: 5px;
+    font-size: 11px;
+    font-family: arial;
+    text-align: left;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+th,
+td {
+    padding: 7px;
+}
+
+b {
+    font-size: 12px;
+    font-family: arial;
+    text-align: left;
+}
